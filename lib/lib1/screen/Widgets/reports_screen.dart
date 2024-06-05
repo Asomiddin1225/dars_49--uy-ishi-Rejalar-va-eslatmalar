@@ -1,5 +1,5 @@
-import 'package:dars_49/controllers/task_controller.dart';
-import 'package:dars_49/controllers/reminder_controller.dart'; // Add this import
+import 'package:dars_49/lib1/controllers/task_controller.dart';
+import 'package:dars_49/lib1/controllers/reminder_controller.dart'; // Add this import
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

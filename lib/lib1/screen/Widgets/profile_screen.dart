@@ -44,9 +44,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
         child: Column(
           children: [
             GestureDetector(
-              onTap: () {
-                // Handle avatar tap if needed
-              },
+              onTap: () {},
               child: CircleAvatar(
                 radius: 50,
                 backgroundImage: AssetImage('assets/asom.png'),
